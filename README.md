@@ -15,10 +15,6 @@ Python import sas catalogs and export to R dataframe
     https://github.com/Roche/pyreadstat
     https://github.com/ofajardo/pyreadr#what-objects-can-be-read
 
-    Note the package does not read a stanalone SAS format catalog. It needs
-    a SAS table with the user formats. The package can only
-    identify labels associated with code in the associated SAS table.
-
     *_                   _
     (_)_ __  _ __  _   _| |_
     | | '_ \| '_ \| | | | __|
